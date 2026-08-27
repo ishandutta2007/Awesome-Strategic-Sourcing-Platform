@@ -1,229 +1,191 @@
 # Awesome-Strategic-Sourcing-Platform
 
-Edit
-Top Supplier Relationship Management (SRM) Tools Ecosystem
+## Top Strategic Sourcing Platforms Ecosystem
 
-Curated List of SaaS Products & Open-Source GitHub Projects
-Focused on Supplier Lifecycle Management, Supplier Collaboration, Performance, Risk, Compliance & Procurement Intelligence
-Last updated: August 2026
+**Curated List of SaaS Products & Open-Source GitHub Projects**
+*Focused on Strategic Sourcing, RFx, E-Auctions, Supplier Selection, Bid Optimization & Procurement Intelligence*
+**Last updated: August 2026**
 
-This repository tracks notable SaaS/hosted platforms and open-source projects for Supplier Relationship Management (SRM). These tools help enterprises manage supplier master data, registration, onboarding, qualification, risk, compliance, performance, collaboration, supplier portals, audits, sourcing, and strategic supplier relationships.
+This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **Strategic Sourcing**. These tools help procurement teams identify suppliers, run RFIs/RFQs/RFPs, conduct reverse auctions, compare bids, optimize supplier awards, model total cost, negotiate contracts, manage sourcing events, and measure procurement savings.
 
-Examples include HICX, Ivalua, GEP SMART, SAP Ariba, JAGGAER, Zycus, Coupa, Gatekeeper, Graphite Connect, TealBook, Proactis, Oracle Supplier Management, and Kodiak Hub. HICX, for example, provides supplier information management, onboarding, supplier portals, risk, performance, and relationship-management capabilities on a common supplier-data foundation. Ivalua similarly combines supplier information, onboarding, risk, performance, collaboration, and supplier master data in a unified platform.
+**Examples** include SAP Ariba Sourcing, Ivalua, GEP SMART, JAGGAER, Coupa, SynerTrade, Market Dojo, Workday Strategic Sourcing, Keelvar, Zycus, Zip, Fairmarkit, Scanmarket, and Bonfire.
 
-Open-source emphasis: Dedicated open-source SRM suites are considerably rarer than commercial enterprise SRM platforms. This section is therefore heavily expanded with the strongest open-source ERP, procurement, supplier-portal, purchasing, RFQ, vendor-management, workflow, and supplier-data building blocks that can be combined into a self-hosted SRM system.
+**Open-source emphasis**: Dedicated open-source strategic-sourcing suites are considerably rarer than commercial platforms. This section therefore includes the strongest open-source **procurement, e-sourcing, auction, RFx, bid-comparison, supplier-selection, optimization, and ERP procurement building blocks** that can be assembled into a self-hosted sourcing stack. OpenProcurement is particularly relevant because it is explicitly designed as an open-source toolkit for procurement business processes and includes BPM, API, and auction components.
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-Table of Contents
+## Table of Contents
 
-SaaS/Hosted Platforms
+* [SaaS/Hosted Platforms](#saashosted-platforms)
+* [Open-Source GitHub Projects](#open-source-github-projects)
+* [Additional Strong Open-Source Options](#additional-strong-open-source-options)
+* [How to Contribute](#how-to-contribute)
+* [Disclaimer](#disclaimer)
 
-Open-Source GitHub Projects
+## SaaS/Hosted Platforms
 
-Additional Strong Open-Source Options
+* **[SAP Ariba Sourcing](https://www.sap.com/products/spend-management/ariba.html)**
+  Enterprise strategic-sourcing platform for RFIs, RFPs, auctions, supplier discovery, bid comparison, sourcing events, and procurement collaboration.
 
-How to Contribute
+* **[Ivalua Sourcing](https://www.ivalua.com/)**
+  Enterprise sourcing platform covering sourcing events, supplier collaboration, bid analysis, award optimization, category management, and source-to-pay workflows.
 
-Disclaimer
+* **[GEP SMART](https://www.gep.com/software/smart)**
+  Unified procurement platform combining strategic sourcing, spend analysis, supplier management, contract management, procurement orchestration, and sourcing intelligence.
 
-SaaS/Hosted Platforms
+* **[JAGGAER Sourcing](https://www.jaggaer.com/)**
+  Strategic sourcing and source-to-pay platform supporting RFx events, e-auctions, supplier selection, bid analysis, category management, and procurement.
 
-HICX
-Enterprise supplier-management platform focused on supplier information management, onboarding, supplier portals, process orchestration, risk, performance, compliance, and strategic supplier relationships. HICX positions its supplier-data foundation as a single authoritative supplier record across ERP and procurement systems.
+* **[Coupa Sourcing](https://www.coupa.com/products/sourcing/)**
+  Strategic sourcing platform for sourcing events, supplier competition, auctions, bid analysis, award decisions, and integration with broader business-spend management.
 
-Ivalua
-Enterprise source-to-pay and supplier-management platform covering supplier information, onboarding, supplier risk, performance, collaboration, master data, and supplier portals.
+* **[SynerTrade](https://www.synertrade.com/)**
+  Source-to-pay platform covering strategic sourcing, supplier management, spend analysis, contracts, procurement, and supplier performance.
 
-GEP SMART
-Unified procurement and supply-chain platform supporting supplier management, sourcing, spend analysis, contracts, risk, procurement operations, and supplier collaboration.
+* **[Market Dojo](https://www.marketdojo.com/)**
+  E-sourcing platform focused on sourcing events, RFx, reverse auctions, supplier bidding, procurement competitions, and savings generation.
 
-SAP Ariba
-Enterprise procurement and supplier collaboration ecosystem supporting supplier discovery, sourcing, supplier lifecycle management, procurement, contracts, and business-network collaboration.
+* **[Workday Strategic Sourcing](https://www.workday.com/)**
+  Strategic sourcing platform supporting sourcing events, supplier collaboration, negotiations, bid analysis, and procurement workflows.
 
-JAGGAER
-Source-to-pay and supplier-management platform covering supplier onboarding, sourcing, contracts, supplier performance, supplier risk, procurement, and spend management.
+* **[Keelvar](https://www.keelvar.com/)**
+  Autonomous sourcing and optimization platform designed for complex sourcing events, scenario modeling, supplier allocation, and procurement automation.
 
-Zycus
-AI-powered source-to-pay suite covering supplier onboarding, supplier information, supplier risk, performance, sourcing, contracts, procurement, and spend analytics.
+* **[Zycus](https://www.zycus.com/)**
+  AI-powered source-to-pay platform with strategic sourcing, supplier management, spend analytics, contracts, procurement, and sourcing optimization.
 
-Coupa
-Business spend-management platform with supplier management, sourcing, procurement, contracts, supplier risk, supplier collaboration, and spend intelligence capabilities.
+* **[Zip](https://ziphq.com/)**
+  Procurement orchestration platform that connects intake, approvals, sourcing, purchasing, and downstream procurement processes.
 
-Gatekeeper
-Supplier and contract management platform focused on vendor onboarding, supplier information, contracts, workflows, compliance, risk, and ongoing vendor relationships.
+* **[Fairmarkit](https://www.fairmarkit.com/)**
+  Tail-spend and autonomous sourcing platform designed to identify sourcing opportunities, generate RFx events, engage suppliers, compare bids, and drive savings.
 
-Graphite Connect
-Supplier collaboration and supplier lifecycle platform focused on supplier onboarding, product information, compliance, documentation, quality, and collaboration.
+* **[Scanmarket](https://www.scanmarket.com/)**
+  Strategic sourcing and procurement platform supporting sourcing events, supplier collaboration, e-auctions, spend analysis, and sourcing project management.
 
-TealBook
-Supplier intelligence and supplier-data platform focused on supplier discovery, supplier master data, data enrichment, diversity, risk, and procurement intelligence.
+* **[Bonfire](https://bonfirehub.com/)**
+  E-procurement and strategic sourcing platform particularly focused on public-sector, education, healthcare, and other regulated procurement organizations.
 
-Proactis
-Source-to-pay and spend-management platform supporting supplier management, sourcing, procurement, contracts, supplier portals, and purchasing workflows.
+### Additional Notable SaaS / Hosted Platforms
 
-Oracle Supplier Management
-Enterprise supplier-management capabilities within Oracle Procurement covering supplier registration, qualification, onboarding, profile management, and supplier lifecycle processes.
+* **[Proactis](https://www.proactis.com/)** — Source-to-pay and procurement platform with sourcing, supplier, contract, and spend-management capabilities.
+* **[Determine](https://www.determine.com/)** — Source-to-pay platform covering sourcing, contracts, supplier management, and procurement.
+* **[Jaggaer Direct](https://www.jaggaer.com/)** — Procurement and sourcing capabilities within the broader JAGGAER ecosystem.
+* **[Arkestro](https://arkestro.com/)** — Predictive procurement platform using data-driven recommendations for sourcing and supplier negotiations.
+* **[Fairmarkit](https://www.fairmarkit.com/)** — Autonomous sourcing and tail-spend optimization.
+* **[Keelvar](https://www.keelvar.com/)** — Optimization-heavy sourcing automation and autonomous sourcing.
+* **[Oro](https://oroinc.com/)** — Open-source-origin B2B commerce and procurement technology with procurement workflow capabilities.
+* **[Coupa](https://www.coupa.com/)** — Broader business-spend management suite encompassing strategic sourcing and procurement.
+* **[SAP Ariba](https://www.sap.com/products/spend-management/ariba.html)** — Enterprise procurement and supplier network ecosystem with sourcing functionality.
+* **[Ivalua](https://www.ivalua.com/)** — Enterprise source-to-pay suite with extensive sourcing functionality.
+* **[JAGGAER](https://www.jaggaer.com/)** — Source-to-pay and strategic sourcing ecosystem.
+* **[GEP SMART](https://www.gep.com/software/smart)** — Unified procurement and sourcing suite.
+* **[Zycus](https://www.zycus.com/)** — AI-enabled source-to-pay and strategic procurement platform.
 
-Kodiak Hub
-Supplier relationship-management platform focused on supplier data, onboarding, assessments, audits, performance, risk, collaboration, and supplier improvement.
+## Open-Source GitHub Projects
 
-Additional Notable SaaS / Hosted Platforms
+* **[OpenProcurement](https://github.com/openprocurement/openprocurement.api)**
+  Open-source procurement toolkit explicitly designed for procurement business processes. Its architecture includes a business-process-management engine, API, and auction module, making it one of the closest open-source foundations for building an e-sourcing platform.
 
-SAP Fieldglass — External workforce and services procurement platform with supplier-management capabilities.
+* **[ERPNext](https://github.com/frappe/erpnext)**
+  Fully open-source ERP containing procurement functionality for suppliers, purchasing, purchase orders, inventory, and supply-chain operations. It provides a strong transactional foundation around which custom strategic-sourcing workflows can be built.
 
-Workday Strategic Sourcing — Strategic sourcing and procurement platform with supplier and sourcing workflows.
+* **[Odoo](https://github.com/odoo/odoo)**
+  Open-source ERP platform with purchasing, suppliers, RFQs, purchase tenders, vendor pricelists, purchasing workflows, and procurement analytics that can serve as a foundation for a self-hosted sourcing system.
 
-ServiceNow — Enterprise workflow platform that can support supplier lifecycle and third-party management processes.
+* **[Tryton](https://github.com/tryton/tryton)**
+  Modular open-source ERP platform supporting purchasing, inventory, accounting, and business-process workflows. Its modular architecture makes it useful as a foundation for custom sourcing applications.
 
-OneTrust Third-Party Management — Third-party risk, supplier assessment, compliance, and lifecycle management.
+* **[Tryton Purchase](https://github.com/tryton/purchase)**
+  Dedicated purchasing module for Tryton providing supplier purchasing, purchase documents, supplier shipments, and purchasing-related invoices.
 
-Basware — Procure-to-pay and AP automation platform with supplier and procurement capabilities.
+* **[Dolibarr](https://github.com/Dolibarr/dolibarr)**
+  Open-source ERP/CRM with supplier management, purchasing, supplier prices, purchase proposals, purchase orders, receptions, and supplier invoices.
 
-Tradeshift — Supplier commerce, procurement, invoicing, and business-network platform.
+* **[Apache OFBiz](https://github.com/apache/ofbiz-framework)**
+  Apache enterprise automation framework containing ERP, supply-chain, order-management, procurement, and business-process capabilities suitable for highly customized sourcing systems.
 
-Determine — Source-to-pay and supplier-management platform.
+* **[Procurement Optimization](https://github.com/virbahu/procurement-optimization)**
+  Open-source procurement optimization project combining spend analytics, strategic-sourcing algorithms, supplier allocation, total-cost modeling, reverse-auction concepts, and sustainability-oriented sourcing optimization.
 
-Precoro — Procurement workflow and supplier-management platform.
+* **[OpenSourcingOS](https://github.com/gruvyo/opensourcingos)**
+  Open-source sourcing-value-tracking application for sourcing projects, supplier offers, baselines, savings schedules, and savings realization. It is particularly useful as a strategic-sourcing savings-management component.
 
-Zip — Procurement orchestration and intake platform connecting purchasing, approval, and supplier workflows.
+* **[Smart Procurement System](https://github.com/MhdHlal/smart-procurement-system)**
+  Open-source procurement application focused on BOM-driven procurement, automated RFQs, vendor-to-material matching, bid comparison, and strategic awarding workflows.
 
-Fairmarkit — Tail-spend sourcing and supplier competition platform.
+* **[Reverse Auction Simulator](https://github.com/virbahu/reverse-auction-simulator)**
+  Open-source procurement/reverse-auction simulation project providing an analytical framework for studying sourcing auctions and procurement optimization.
 
-Keelvar — Autonomous sourcing and procurement optimization platform.
+* **[Freight Auction Optimizer](https://github.com/virbahu/freight-auction-optimizer)**
+  Open-source auction optimization project focused on winner determination and bid optimization; although oriented toward freight procurement, the optimization concepts are applicable to broader sourcing problems.
 
-Arkestro — Predictive procurement and supplier negotiation platform.
+### Additional Strong Open-Source Options
 
-SupplyShift — Supplier data, sustainability, and supply-chain intelligence platform.
+* **[OpenProcurement](https://github.com/openprocurement/openprocurement.api)** — Procurement API, BPM, auction, and tendering foundation.
+* **[ERPNext](https://github.com/frappe/erpnext)** — Full open-source ERP/procurement foundation with suppliers and purchasing.
+* **[Odoo](https://github.com/odoo/odoo)** — Open-source ERP with RFQs, purchasing, supplier records, and procurement workflows.
+* **[Tryton](https://github.com/tryton/tryton)** — Modular open-source ERP for custom procurement applications.
+* **[Dolibarr](https://github.com/Dolibarr/dolibarr)** — Lightweight ERP/CRM with supplier and purchasing functionality.
+* **[Apache OFBiz](https://github.com/apache/ofbiz-framework)** — Enterprise application framework for building highly customized procurement and sourcing systems.
+* **[Procurement Optimization](https://github.com/virbahu/procurement-optimization)** — Sourcing optimization, supplier allocation, auction, TCO, and procurement analytics.
+* **[OpenSourcingOS](https://github.com/gruvyo/opensourcingos)** — Open-source sourcing-project savings and value-tracking system.
+* **[Smart Procurement System](https://github.com/MhdHlal/smart-procurement-system)** — Automated RFQ and bid-comparison foundation.
+* **[Procurement Skills](https://github.com/sourcesquid-ops/procurement-skills)** — Open-source AI skills library covering sourcing context, RFQ drafting/comparison, vendor qualification, scorecards, spend analysis, and related procurement workflows.
+* **[Supplier Selection Skill](https://github.com/kishorkukreja/awesome-supply-chain)** — Open-source collection documenting supplier-selection methods and optimization tooling using libraries such as PuLP, CVXPY, Pyomo, scikit-learn, and NetworkX.
 
-IntegrityNext — Supplier sustainability, ESG, compliance, and risk-management platform.
+**Important distinction**: There are currently far fewer mature open-source alternatives to **SAP Ariba Sourcing, Ivalua, GEP SMART, JAGGAER, Coupa, Keelvar, Zycus, or Fairmarkit** than there are commercial products. GitHub's procurement topic currently contains hundreds of repositories, but most are components, experiments, ERP procurement modules, or specialized tools rather than complete enterprise strategic-sourcing suites.
 
-EcoVadis — Supplier sustainability ratings and supply-chain ESG intelligence.
+The strongest open-source strategy is therefore to assemble a modular sourcing platform:
 
-Prewave — AI-powered supplier risk and supply-chain monitoring platform.
+**Supplier Discovery → RFx → Supplier Invitations → Bid Collection → Bid Normalization → Bid Comparison → Scenario Modeling → Award Optimization → Negotiation → Contract → PO**
 
-Interos — AI-powered third-party and supply-chain risk intelligence platform.
+A practical architecture could use **OpenProcurement** for tendering, procurement APIs, BPM, and auctions; **ERPNext/Odoo** for supplier and purchasing transactions; and specialized optimization projects/libraries for bid evaluation, winner determination, and multi-objective supplier allocation.
 
-Avetta — Supplier and contractor qualification, compliance, risk, and safety-management network.
+**Frameworks for building a custom open-source strategic-sourcing platform**: Combine **OpenProcurement**, **ERPNext/Odoo**, **PostgreSQL**, **Redis**, **Keycloak**, **OpenSearch**, **MinIO**, and **Grafana/Metabase**, with **Python optimization libraries such as PuLP, OR-Tools, Pyomo, or CVXPY** for supplier allocation and award optimization.
 
-C2FO — Working-capital and supplier-finance network supporting buyer-supplier relationships.
+A more advanced architecture can add:
 
-Open-Source GitHub Projects
+* **Supplier Discovery** — supplier directories, catalogs, historical suppliers, market intelligence.
+* **RFx Engine** — RFI, RFQ, RFP, e-auction, reverse auction, and multi-round sourcing.
+* **Bid Normalization** — normalize units, currencies, payment terms, lead times, freight, taxes, and other commercial conditions.
+* **Bid Comparison** — side-by-side supplier comparisons and configurable evaluation criteria.
+* **Award Optimization** — multi-supplier allocation, split awards, minimum/maximum quantities, capacity constraints, geographic constraints, and risk constraints.
+* **Total Cost of Ownership** — price plus freight, duties, quality, inventory, switching, payment, and lifecycle costs.
+* **Scenario Modeling** — compare alternative award configurations before selecting the final sourcing strategy.
+* **Supplier Scoring** — price, quality, delivery, risk, ESG, capacity, diversity, and strategic-fit scoring.
+* **E-Auctions** — reverse auctions, Dutch auctions, sealed bids, and configurable auction rules.
+* **Savings Tracking** — baseline, opening proposal, negotiated price, cost reduction, cost avoidance, and realized savings.
+* **AI/RAG Layer** — summarize supplier proposals, extract commercial terms, compare bids, identify exceptions, and prepare negotiation briefs.
 
-ERPNext
-One of the strongest open-source ERP foundations for building a self-hosted SRM environment. Its procurement capabilities include suppliers, purchasing, inventory, purchase orders, receipts, and related supply-chain workflows. The project describes itself as a 100% open-source ERP and is GPL-3.0 licensed.
+A strong self-hosted strategic-sourcing architecture can therefore look like:
 
-Odoo
-Open-source business application suite with procurement, purchasing, inventory, accounting, CRM, manufacturing, and supplier workflows. Its Purchase application supports RFQs, purchase orders, vendor information, purchase tenders, vendor pricelists, receptions, invoices, and vendor-quality analysis.
+**Supplier Database → Sourcing Project → RFx/Auction → Supplier Bids → Bid Normalization → Evaluation Matrix → Optimization Engine → Award Scenario → Approval → Contract/PO → Savings Tracking**
 
-Odoo SRM Purchase Collaboration
-Open-source Odoo extension specifically aimed at supplier collaboration. It provides a supplier portal for RFQs, quotations, purchase orders, and advanced shipping notices, making it one of the closest dedicated open-source SRM-oriented projects in this list.
+with **OpenProcurement + ERPNext/Odoo** providing the procurement foundation and specialized open-source optimization components providing the strategic-sourcing intelligence.
 
-Dolibarr
-Open-source ERP/CRM platform with explicit supplier and purchasing functionality, including supplier/vendor management, supplier price requests, purchase orders, delivery/reception, supplier invoices, and purchasing workflows.
+## How to Contribute
 
-Tryton
-Modular open-source business platform for accounting, inventory, sales, purchasing, and operations. Tryton describes itself as complete and 100% open source.
-
-Tryton Purchase Module
-Dedicated Tryton purchasing module providing purchase creation and lifecycle management, supplier shipments, and related supplier invoices.
-
-Apache OFBiz
-Apache open-source enterprise automation framework containing ERP, CRM, e-commerce, supply-chain management, manufacturing, accounting, order, and other business applications. It can serve as a highly customizable foundation for supplier and procurement systems.
-
-Frappe Framework
-Open-source full-stack application framework underlying ERPNext. It provides database abstractions, authentication, APIs, and application-building capabilities suitable for custom supplier portals, workflows, and SRM modules.
-
-VendorBridge
-Open-source procurement-oriented application covering vendor management, RFQs, quotations, approvals, purchase orders, invoices, vendor portals, and procurement reporting.
-
-Additional Strong Open-Source Options
-
-ERPNext — Strongest general-purpose open-source foundation for supplier, purchasing, inventory, and procurement workflows.
-
-Odoo — Broad open-source ERP foundation with particularly extensive procurement functionality.
-
-Odoo SRM Purchase Collaboration — One of the most directly SRM-oriented open-source projects, with supplier portal collaboration for RFQs, POs, and ASNs.
-
-Dolibarr — Lightweight open-source ERP/CRM with dedicated supplier and purchase-management modules.
-
-Tryton — Modular open-source ERP foundation with purchasing and supplier workflows.
-
-Tryton Purchase — Dedicated purchasing module for supplier purchases, shipments, and invoices.
-
-Apache OFBiz — Highly customizable enterprise framework spanning ERP and supply-chain processes.
-
-Frappe Framework — Useful foundation for creating custom supplier portals, workflows, and supplier-data applications.
-
-VendorBridge — Procurement-oriented foundation for vendor, RFQ, quotation, PO, and invoice workflows.
-
-Important distinction: The open-source ecosystem does not currently contain many mature, direct replacements for enterprise SRM suites such as HICX, Ivalua, SAP Ariba Supplier Management, JAGGAER, Zycus, Coupa, or Kodiak Hub. Most open-source alternatives are instead ERP/procurement systems or individual SRM building blocks.
-
-The strongest open-source route is therefore to assemble an SRM platform from several components:
-
-Supplier Master Data → Supplier Registration → Onboarding → Qualification → Risk & Compliance → Performance → Collaboration → RFQ/Sourcing → Purchase Orders → Supplier Portal → Analytics
-
-For example, ERPNext can provide the transactional supplier/procurement foundation, while Odoo SRM Purchase Collaboration adds a supplier-facing collaboration layer for RFQs, quotations, purchase orders, and ASNs.
-
-Frameworks for building a custom open-source SRM platform: Combine ERPNext/Odoo for procurement and supplier records, Frappe/Odoo for application and workflow development, PostgreSQL/MariaDB for supplier master data, MinIO for supplier documents, Keycloak for identity and RBAC, OpenSearch for supplier discovery, and Grafana/Metabase for supplier-performance dashboards.
-
-A more advanced SRM architecture can add:
-
-Supplier Master Data Management — golden records, deduplication, hierarchy management, enrichment.
-
-Supplier Onboarding — self-registration, questionnaires, approval workflows, ERP activation.
-
-Supplier Qualification — certifications, capabilities, financial information, quality documentation.
-
-Supplier Risk Management — continuous monitoring, risk scoring, alerts, and remediation workflows.
-
-Supplier Performance Management — KPI dashboards, scorecards, SLAs, corrective actions, and improvement plans.
-
-Supplier Collaboration — RFQs, quotations, POs, ASNs, shared documents, and issue management.
-
-Supplier Portal — self-service profile management, compliance updates, transactions, and communications.
-
-Supplier Analytics — spend, performance, risk, concentration, diversity, and strategic-supplier analysis.
-
-AI/RAG Layer — analysis of supplier questionnaires, contracts, certificates, audits, financial statements, and compliance documentation.
-
-A strong self-hosted architecture can therefore look like:
-
-Supplier Portal → Supplier Master Data → Qualification & Onboarding → Risk & Compliance → Performance Scorecards → Sourcing/RFQ → Purchase Orders → Supplier Collaboration → Analytics
-
-with ERPNext/Odoo providing the transactional foundation and specialized open-source services handling identity, documents, search, workflow, analytics, and AI.
-
-How to Contribute
-
-Fork the repo.
-
-Add/edit entries in README.md (follow existing format).
-
-Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-Prefer actively maintained projects with a public repository.
-
-Clearly distinguish between fully open-source, source-available, open-core, and commercial hosted offerings.
-
-For SRM software, specify whether a project primarily handles supplier master data, onboarding, qualification, risk, performance, collaboration, sourcing, procurement, or contracts.
-
-Submit PR with a short explanation.
+1. Fork the repo.
+2. Add/edit entries in `README.md` (follow existing format).
+3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+4. Prefer actively maintained projects with a public repository.
+5. Clearly distinguish between **fully open-source**, **source-available**, **open-core**, and **commercial hosted** offerings.
+6. For sourcing software, specify whether a project primarily handles **RFx, e-auctions, bid management, supplier selection, award optimization, spend analysis, sourcing savings, or procurement transactions**.
+7. Submit PR with a short explanation.
 
 Star the repo if you find it useful!
 
-Disclaimer
+## Disclaimer
 
-This is a community-curated list — not exhaustive and not an endorsement.
+* This is a **community-curated** list — not exhaustive and not an endorsement.
+* Dedicated open-source strategic-sourcing suites are substantially less mature than the commercial enterprise sourcing market.
+* Some projects listed here are **ERP/procurement platforms, optimization libraries, auction engines, or building blocks rather than direct strategic-sourcing replacements**.
+* Procurement awards should be validated against organizational policies, legal requirements, supplier capacity, commercial terms, and risk considerations.
+* Open-source deployments may require substantial customization for enterprise-grade sourcing events, security, integrations, workflow, auditability, and compliance.
+* Licensing varies by project. Verify the current license and commercial-use requirements before deployment.
 
-Dedicated open-source SRM suites are substantially less mature than the commercial enterprise SRM market.
+---
 
-Some projects listed here are ERP/procurement platforms or building blocks rather than direct SRM replacements.
-
-Supplier risk, compliance, financial, ESG, and certification information should be independently validated before material procurement decisions.
-
-Open-source deployments may require significant customization for enterprise-grade supplier onboarding, data governance, security, integrations, and compliance.
-
-Licensing varies by project. Verify the current license and commercial-use requirements before deployment.
-
-Made for procurement teams, strategic sourcing professionals, supply-chain organizations, supplier managers, finance teams, and enterprise software developers.
-Let's make supplier relationship management more open, data-driven, interoperable, and self-hostable.
+**Made for procurement teams, strategic sourcing professionals, category managers, supply-chain organizations, purchasing departments, and enterprise software developers.**
+Let's make strategic sourcing more open, data-driven, interoperable, transparent, and self-hostable.
