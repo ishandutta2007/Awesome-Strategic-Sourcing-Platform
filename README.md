@@ -24,63 +24,26 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-* **[SAP Ariba Sourcing](https://www.sap.com/products/spend-management/ariba.html)**
-  Enterprise strategic-sourcing platform for RFIs, RFPs, auctions, supplier discovery, bid comparison, sourcing events, and procurement collaboration.
-
-* **[Ivalua Sourcing](https://www.ivalua.com/)**
-  Enterprise sourcing platform covering sourcing events, supplier collaboration, bid analysis, award optimization, category management, and source-to-pay workflows.
-
-* **[GEP SMART](https://www.gep.com/software/smart)**
-  Unified procurement platform combining strategic sourcing, spend analysis, supplier management, contract management, procurement orchestration, and sourcing intelligence.
-
-* **[JAGGAER Sourcing](https://www.jaggaer.com/)**
-  Strategic sourcing and source-to-pay platform supporting RFx events, e-auctions, supplier selection, bid analysis, category management, and procurement.
-
-* **[Coupa Sourcing](https://www.coupa.com/products/sourcing/)**
-  Strategic sourcing platform for sourcing events, supplier competition, auctions, bid analysis, award decisions, and integration with broader business-spend management.
-
-* **[SynerTrade](https://www.synertrade.com/)**
-  Source-to-pay platform covering strategic sourcing, supplier management, spend analysis, contracts, procurement, and supplier performance.
-
-* **[Market Dojo](https://www.marketdojo.com/)**
-  E-sourcing platform focused on sourcing events, RFx, reverse auctions, supplier bidding, procurement competitions, and savings generation.
-
-* **[Workday Strategic Sourcing](https://www.workday.com/)**
-  Strategic sourcing platform supporting sourcing events, supplier collaboration, negotiations, bid analysis, and procurement workflows.
-
-* **[Keelvar](https://www.keelvar.com/)**
-  Autonomous sourcing and optimization platform designed for complex sourcing events, scenario modeling, supplier allocation, and procurement automation.
-
-* **[Zycus](https://www.zycus.com/)**
-  AI-powered source-to-pay platform with strategic sourcing, supplier management, spend analytics, contracts, procurement, and sourcing optimization.
-
-* **[Zip](https://ziphq.com/)**
-  Procurement orchestration platform that connects intake, approvals, sourcing, purchasing, and downstream procurement processes.
-
-* **[Fairmarkit](https://www.fairmarkit.com/)**
-  Tail-spend and autonomous sourcing platform designed to identify sourcing opportunities, generate RFx events, engage suppliers, compare bids, and drive savings.
-
-* **[Scanmarket](https://www.scanmarket.com/)**
-  Strategic sourcing and procurement platform supporting sourcing events, supplier collaboration, e-auctions, spend analysis, and sourcing project management.
-
-* **[Bonfire](https://bonfirehub.com/)**
-  E-procurement and strategic sourcing platform particularly focused on public-sector, education, healthcare, and other regulated procurement organizations.
-
-### Additional Notable SaaS / Hosted Platforms
-
-* **[Proactis](https://www.proactis.com/)** — Source-to-pay and procurement platform with sourcing, supplier, contract, and spend-management capabilities.
-* **[Determine](https://www.determine.com/)** — Source-to-pay platform covering sourcing, contracts, supplier management, and procurement.
-* **[Jaggaer Direct](https://www.jaggaer.com/)** — Procurement and sourcing capabilities within the broader JAGGAER ecosystem.
-* **[Arkestro](https://arkestro.com/)** — Predictive procurement platform using data-driven recommendations for sourcing and supplier negotiations.
-* **[Fairmarkit](https://www.fairmarkit.com/)** — Autonomous sourcing and tail-spend optimization.
-* **[Keelvar](https://www.keelvar.com/)** — Optimization-heavy sourcing automation and autonomous sourcing.
-* **[Oro](https://oroinc.com/)** — Open-source-origin B2B commerce and procurement technology with procurement workflow capabilities.
-* **[Coupa](https://www.coupa.com/)** — Broader business-spend management suite encompassing strategic sourcing and procurement.
-* **[SAP Ariba](https://www.sap.com/products/spend-management/ariba.html)** — Enterprise procurement and supplier network ecosystem with sourcing functionality.
-* **[Ivalua](https://www.ivalua.com/)** — Enterprise source-to-pay suite with extensive sourcing functionality.
-* **[JAGGAER](https://www.jaggaer.com/)** — Source-to-pay and strategic sourcing ecosystem.
-* **[GEP SMART](https://www.gep.com/software/smart)** — Unified procurement and sourcing suite.
-* **[Zycus](https://www.zycus.com/)** — AI-enabled source-to-pay and strategic procurement platform.
+| Platform | Description & Key Sourcing Features | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Market Dojo](https://www.marketdojo.com/)** | On-demand e-sourcing platform focused on RFx events, reverse auctions, supplier bidding, procurement competitions, and savings tracking. | Starts at £500/month (or £2,500/event on-demand; annual plans starting at ~£5,000/year) | Free Forever "Sandpit" (sandbox test environment limited to 3 users and non-live simulation events); Free Forever supplier portal (unlimited responses to buyer invitations). |
+| **[SAP Ariba Sourcing](https://www.sap.com/products/spend-management/ariba.html)** | Enterprise strategic sourcing suite for RFIs/RFPs, e-auctions, supplier discovery, bid comparison, sourcing events, and procurement collaboration. | Starts at ~$10,000/year (or ~$2,000/month for entry modular spend management packages) | Free Forever Standard Account for suppliers (order processing, digital invoicing, RFx responses; up to 4 free transacted documents/year); 14-day free trial on select planning modules. |
+| **[Coupa Sourcing](https://www.coupa.com/products/sourcing/)** | Strategic sourcing and business spend management platform for sourcing events, supplier competition, reverse auctions, and award optimization. | Starts at ~$2,500/month (~$30,000/year for baseline strategic sourcing modules) | Free Forever Coupa Supplier Portal (CSP) account (unlimited RFx bidding, PO tracking, and e-invoicing for invited suppliers); No buyer free trial (guided live demo only). |
+| **[Workday Strategic Sourcing](https://www.workday.com/)** | Collaborative sourcing platform (formerly Scout RFP) supporting RFx events, supplier engagement, reverse auctions, and procurement pipeline management. | Starts at ~$12,000/year (~$1,000/month for base sourcing event management) | Free Forever supplier portal (unlimited bid submissions for invited vendors); 14-day trial historically available via Scout RFP, currently live demo only. |
+| **[Bonfire (Euna Procurement)](https://bonfirehub.com/)** | E-procurement and strategic sourcing platform tailored for public-sector agencies, education, healthcare, and regulated organizations. | Starts at ~$9,000/year (~$750/month for foundational public-sector sourcing tier) | Free Forever vendor account (search public bids, download documents, and submit bids without fees); No buyer free trial (custom public agency demo only). |
+| **[Scanmarket (Unit4)](https://www.scanmarket.com/)** | Strategic sourcing and procurement suite supporting RFx, e-auctions, supplier management, spend analytics, and project tracking. | Starts at ~$1,500/month (~$18,000/year for core e-sourcing module) | Free Forever supplier portal (unlimited participation in e-auctions and RFPs); No self-serve trial (custom guided trial/demo upon request). |
+| **[Zip](https://ziphq.com/)** | Intake-to-procure orchestration platform connecting intake, approvals, sourcing workflows, purchasing, and ERP integrations. | Starts at ~$25,000/year (~$2,083/month for intake and sourcing orchestration) | Free Forever unlimited requester seats for general employees (procurement/admin seats require paid license); No self-serve trial (guided product tour/demo). |
+| **[Keelvar](https://www.keelvar.com/)** | Autonomous sourcing and combinatorial optimization platform for complex sourcing events, scenario modeling, and supplier allocation. | Starts at ~$30,000/year (~$2,500/month for Sourcing Optimizer tier) | Free Forever bidder access for invited vendors (scenario submission and bid upload); No self-serve trial (30-day proof-of-concept / sandbox available on request). |
+| **[Fairmarkit](https://www.fairmarkit.com/)** | Tail-spend and autonomous sourcing platform designed to automate RFx generation, supplier recommendation, and bid comparison. | Starts at ~$50/user/month (or ~$25,000/year platform base tier for autonomous sourcing) | Free Forever supplier quotation portal (zero-fee quote submissions for invited tail-spend vendors); No free trial (guided proof-of-value pilot upon request). |
+| **[JAGGAER Sourcing](https://www.jaggaer.com/)** | Source-to-pay platform supporting RFx events, e-auctions, supplier selection, bid evaluation, category management, and Jaggaer Direct capabilities. | Starts at ~$25,000/year (~$2,083/month for core e-sourcing module) | Free Forever supplier portal (profile registration, document submission, and unlimited bidding on buyer events); No buyer free trial (custom sandbox demo only). |
+| **[GEP SMART](https://www.gep.com/software/smart)** | Unified procurement and sourcing platform combining spend analysis, strategic sourcing, supplier management, and contract lifecycle management. | Starts at ~$75,000/year (~$6,250/month for single-module mid-market strategic sourcing deployments) | Free Forever supplier network profile (unlimited responses to buyer RFPs and reverse auctions); No buyer free trial (interactive demo upon request). |
+| **[Zycus](https://www.zycus.com/)** | Cognitive procurement and source-to-pay suite offering AI-driven strategic sourcing, supplier management, and sourcing optimization. | Starts at ~$50,000/year (~$4,166/month for entry AI sourcing suite) | Free Forever supplier network access for invited vendors (RFx response, catalog hosting); No buyer free trial (guided demo only). |
+| **[Ivalua Sourcing](https://www.ivalua.com/)** | Enterprise source-to-pay suite covering sourcing events, supplier collaboration, bid analysis, award optimization, and contract management. | Starts at ~$150,000/year (~$12,500/month for mid-market/enterprise suite deployments) | Free Forever supplier collaboration portal (unlimited proposal submissions to participating buyer RFx/auctions); No buyer free trial (custom demo environment only). |
+| **[SynerTrade](https://www.synertrade.com/)** | Digital procurement and source-to-pay platform covering strategic sourcing, supplier lifecycle, spend analysis, and contract management. | Starts at ~$30,000/year (~$2,500/month for Digital Procurement strategic sourcing module) | Free Forever supplier onboarding portal (RFx participation and qualification); No buyer free trial (demo on request). |
+| **[Proactis](https://www.proactis.com/)** | Source-to-pay and procurement solution with modular e-sourcing, supplier management, contract management, and spend intelligence. | Starts at ~$1,200/month (~$14,400/year for modular e-sourcing package) | Free Forever supplier portal for responding to buyer tenders and PO acknowledgment; No buyer free trial (guided demo only). |
+| **[Corcentric (formerly Determine)](https://www.corcentric.com/)** | Source-to-pay and sourcing management platform with RFP/auction automation, contract lifecycle, and supplier information management. | Starts at ~$20,000/year (~$1,666/month for strategic sourcing & contract module) | Free Forever vendor portal (unlimited responses to client sourcing events); No buyer free trial (demo upon request). |
+| **[Arkestro](https://arkestro.com/)** | Predictive procurement orchestration platform using machine learning to suggest optimal pricing, terms, and supplier selections in RFx events. | Starts at ~$30,000/year (~$2,500/month for predictive procurement orchestrator) | Free Forever supplier quote submission portal; 30-day proof-of-value pilot program (limited to agreed transaction/spend scope). |
+| **[OroCommerce](https://oroinc.com/)** | Open-source-origin B2B commerce and procurement platform supporting vendor management, custom RFP workflows, and purchasing logic. | Starts at $45,000/year (~$3,750/month for OroCloud Enterprise edition) | Free Forever Community Edition (open-source, self-hosted with unlimited users); 30-day free trial for OroCloud hosted environment. |
 
 ## Open-Source GitHub Projects
 
