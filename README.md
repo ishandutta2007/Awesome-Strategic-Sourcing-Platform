@@ -130,6 +130,9 @@ This repository tracks notable **SaaS/hosted platforms** and **open-source proje
 18. **[Procurement Skills Library](https://github.com/sourcesquid-ops/procurement-skills)** [![Stars](https://img.shields.io/github/stars/sourcesquid-ops/procurement-skills?style=social&color=white)](https://github.com/sourcesquid-ops/procurement-skills/stargazers)  
     AI agent skills framework covering RFQ generation, proposal extraction, vendor scorecards, and spend categorization.
 
+19. **[PlushSource MCP](https://github.com/quickman924/plushsource-mcp)** [![Stars](https://img.shields.io/github/stars/quickman924/plushsource-mcp?style=social&color=white)](https://github.com/quickman924/plushsource-mcp/stargazers)  
+    Open-source MCP server for supplier discovery in custom plush manufacturing: lets AI assistants search and compare the 55 factories listed on [PlushSource](https://plushsource.com) by MOQ, lead time, OEM/ODM and claimed certifications, with facts compiled from each factory's own website.
+
 ---
 
 ## 🏗️ Self-Hosted Sourcing Stack Blueprint
